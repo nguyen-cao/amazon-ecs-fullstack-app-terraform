@@ -8,6 +8,7 @@
     <br>
 
     <div class="jumbotron text-center winter">
+        <h1> Test the changes from GitHub </h1>
         <h1>Examples of retrieved Items from Amazon Dynamodb + files from Amazon S3!</h1>
     </div>
 
