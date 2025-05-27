@@ -22,8 +22,6 @@
 
 ## Solution overview
 
-Test Gitcommit
-
 This repository contains Terraform code to deploy a solution that is intended to be used to run a demo. It shows how AWS resources can be used to build an architecture that reduces defects while deploying, eases remediation, mitigates deployment risks and improves the flow into production environments while gaining the advantages of a managed underlying infrastructure for containers.
 
 ## General information
